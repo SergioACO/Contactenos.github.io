@@ -1,0 +1,71 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: #3C3B3F;
+    background: -webkit-linear-gradient(to right, #605C3C, #3C3B3F);
+    background: linear-gradient(to right, #605C3C, #3C3B3F);
+}
+
+
+.formulario{
+    width: 400px;background: #FFEFBA;
+    background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);
+    background: linear-gradient(to right, #FFFFFF, #FFEFBA);
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 4px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    }
+
+.formulario h1 {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.control{
+    width: 100%;
+    background: #ccc8cc ;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px; 
+    border: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+    }
+
+.formulario .boton{
+    width: 100%;
+    background: #3C3B3F;
+    background: -webkit-linear-gradient(to right, #605C3C, #3C3B3F);
+    background: linear-gradient(to right, #605C3C, #3C3B3F);
+    border: solid, black;
+    padding: 12px;
+    color: black;
+    margin: 16px 0;
+    font-size: 16px; 
+    font-family: 'Times New Roman', Times, serif; 
+    }
+
+
+h1{
+    text-align: center;
+}
+
+.texto{
+    width: 100%;
+    background: #ccc8cc ;
+    padding: 100px;
+    border-radius: 4px;
+    margin-bottom: 16px; 
+    border: 1px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+}
